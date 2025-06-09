@@ -3,6 +3,14 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Entrenamiento2",
+            "request": "launch",
+            "mainClass": "Entrenamiento2",
+            "projectName": "EP_EJ3_WEKA_51b86a9",
+            "vmArgs": "--add-opens java.base/java.lang=ALL-UNNAMED"
+        },
+        {
+            "type": "java",
             "name": "Entrenamiento",
             "request": "launch",
             "mainClass": "Entrenamiento",
