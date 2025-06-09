@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/weka-396.jar",
+        "lib/jcommon-1024.jar",
+        "lib/jfreechart-156.jar"
+    ]
+}
