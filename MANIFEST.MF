@@ -1,0 +1,2 @@
+Main-Class: Entrenamiento2
+Class-Path: lib/weka-396.jar lib/jfreechart-156.jar lib/jcommon-1024.jar
