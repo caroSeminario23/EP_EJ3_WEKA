@@ -13,6 +13,8 @@ Este repositorio presenta a detalle el procesamiento que fue necesario aplicar a
 ## 3. Tecnologías utilizadas
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-217346.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java 22](https://img.shields.io/badge/java%2022-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![API WEKA](https://img.shields.io/badge/api%20weka-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
